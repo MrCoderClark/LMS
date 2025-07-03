@@ -1,6 +1,6 @@
 "use client";
 
-import { ThemeToggle } from "@/components/themeToggle";
+import { ThemeToggle } from "@/components/sidebar/themeToggle";
 import { buttonVariants } from "@/components/ui/button";
 import { authClient } from "@/lib/auth-client";
 import Image from "next/image";
